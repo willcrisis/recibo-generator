@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/recibo-generator/static/css/main.c0c5d6f4.chunk.css",
+    "main.js": "/recibo-generator/static/js/main.efbe2b4d.chunk.js",
+    "main.js.map": "/recibo-generator/static/js/main.efbe2b4d.chunk.js.map",
+    "runtime~main.js": "/recibo-generator/static/js/runtime~main.f2ae6295.js",
+    "runtime~main.js.map": "/recibo-generator/static/js/runtime~main.f2ae6295.js.map",
+    "static/js/2.3a40ad0f.chunk.js": "/recibo-generator/static/js/2.3a40ad0f.chunk.js",
+    "static/js/2.3a40ad0f.chunk.js.map": "/recibo-generator/static/js/2.3a40ad0f.chunk.js.map",
+    "index.html": "/recibo-generator/index.html",
+    "precache-manifest.eb53edce2af861d956db45bc4dc7a0e1.js": "/recibo-generator/precache-manifest.eb53edce2af861d956db45bc4dc7a0e1.js",
+    "service-worker.js": "/recibo-generator/service-worker.js",
+    "static/css/main.c0c5d6f4.chunk.css.map": "/recibo-generator/static/css/main.c0c5d6f4.chunk.css.map"
+  }
+}
