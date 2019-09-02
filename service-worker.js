@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/recibo-generator/precache-manifest.eb53edce2af861d956db45bc4dc7a0e1.js"
+  "/recibo-generator/precache-manifest.82b2e3fa9f03c0f78791b8ad8010a05d.js"
 );
 
 self.addEventListener('message', (event) => {
