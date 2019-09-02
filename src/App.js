@@ -8,7 +8,7 @@ function App() {
   const [price, setPrice] = useState('0.00');
   const [service, setService] = useState('Alguma Coisa');
   const [city, setCity] = useState('Goiânia');
-  const [date, setDate] = useState('2019-09-01');
+  const [date, setDate] = useState(new Date().toJSON().substring(0, 10));
   const [emitter, setEmitter] = useState('Beltrano da Silva');
   const [emitterCpf, setEmitterCpf] = useState('000.000.000-00');
 
